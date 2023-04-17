@@ -5,6 +5,7 @@
   <div class="hero bg-body-extra-light overflow-hidden">
     <div class="hero-inner">
       <div class="content content-full text-center">
+        
         <h1 class="fw-bold mb-2">
           OneUI <span class="fw-normal">+ Laravel <span class="text-city">9</span></span>
         </h1>
